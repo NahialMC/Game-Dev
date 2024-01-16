@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - BanditHitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Bounds
+  - Characters
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3523570855
+    locked: 0
+  - name: DistantBackground
+    uniqueID: 3612759559
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 253839437
+    locked: 0
+  - name: CloserMiddleGround
+    uniqueID: 37240597
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2928268081
+    locked: 0
+  - name: OffGround
+    uniqueID: 2209304587
+    locked: 0
+  - name: Camera
+    uniqueID: 2697288055
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 722499237
+    locked: 0
